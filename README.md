@@ -3,7 +3,7 @@
 ## 📌 O projekcie
 Projekt stanowi kompleksową analizę eksploracyjną (EDA) oraz proces czyszczenia danych dotyczących aktywności ofert Airbnb w Nowym Jorku w 2019 roku. Głównym celem aplikacji/skryptu jest identyfikacja wzorców zachowań rynkowych, segmentacja ofert pod kątem lokalizacji i typu zakwaterowania, a także wykrywanie oraz izolowanie anomalii cenowych (outlierów), które mogą negatywnie wpływać na późniejsze modele predykcyjne.
 
-Projekt łączy w sobie elastyczność bibliotek data science w języku **Python** z precyzją zapytań **SQL**, tworząc spójny rurociąg (pipeline) przetwarzania i walidacji danych rynkowych.
+Projekt łączy w sobie elastyczność bibliotek Data Science w języku **Python** z precyzją zapytań **SQL**, tworząc spójny rurociąg (pipeline) przetwarzania i walidacji danych rynkowych!
 
 ---
 
